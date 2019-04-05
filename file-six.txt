@@ -1,0 +1,12 @@
+
+www |111 
+www |333 
+sss |222 
+fff |333 
+www |222 
+name |123 
+name |12345 
+nan |123 
+na |111 
+a |1 
+b |2 
